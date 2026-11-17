@@ -1,3 +1,8 @@
+> [!IMPORTANT]
+> **This repository has moved to [IvanStrazov/animus-portrait](https://github.com/IvanStrazov/animus-portrait)** and is now part of the Animus ecosystem. This copy is frozen at 0.2.0 and gets no updates.
+>
+> To switch: `/plugin marketplace add IvanStrazov/animus-portrait`, then `/plugin install animus-portrait@animus-portrait`, then uninstall `claude-portrait`. Your data is untouched.
+
 # claude-portrait
 
 [![tests](https://github.com/IvanStrazov/claude-portrait/actions/workflows/test.yml/badge.svg)](https://github.com/IvanStrazov/claude-portrait/actions/workflows/test.yml)
